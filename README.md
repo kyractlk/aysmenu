@@ -20,7 +20,14 @@ Garson, mutfak ve yönetim aynı anda, gerçek zamanlı çalışır. Her işletm
 | Mutfak | [demo.aysmenu.com.tr/mutfak](https://demo.aysmenu.com.tr/mutfak) |
 
 Demo işletme: **Lezzet Durağı** · slug `demo`  
-Panel: `demo@aysmenu.com.tr` *(şifre için iletişime geçin veya ekibe sorun)*
+Ortak şifre: `Demo2026!`
+
+| Rol | URL | E-posta |
+|-----|-----|---------|
+| Misafir menü | [demo…/m/t1](https://demo.aysmenu.com.tr/m/t1) | — |
+| Yönetim | […/admin](https://demo.aysmenu.com.tr/admin) | `demo@aysmenu.com.tr` |
+| Garson | […/garson](https://demo.aysmenu.com.tr/garson) | `garson@aysmenu.com.tr` |
+| Mutfak | […/mutfak](https://demo.aysmenu.com.tr/mutfak) | `mutfak@aysmenu.com.tr` |
 
 ---
 
@@ -61,6 +68,12 @@ Panel: `demo@aysmenu.com.tr` *(şifre için iletişime geçin veya ekibe sorun)*
 - **Wildcard HTTPS** — `aysmenu.com.tr` ve `*.aysmenu.com.tr` (Google Trust Services)
 
 ---
+
+
+
+
+
+
 
 ## Bayilik URL’leri
 
